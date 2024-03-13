@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "*.so": "c",
+        "matematica.h": "c",
+        "modulo.h": "c"
+    }
+}
